@@ -1,4 +1,4 @@
-# Yazı-Tura(flip-coin) Uygulaması
+# Akış sayfası (fake api) Uygulaması
 -Redux ve api kullanarak yaptığım basit bir akış sayfası. Arama yapılabilir.
 -Uygulamayı tarayıcıda gömek için: https://elated-roentgen-d1fc80.netlify.com
 # Proje Nasıl Çalıştırılır
